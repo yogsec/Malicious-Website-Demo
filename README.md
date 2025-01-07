@@ -12,6 +12,9 @@ Welcome to the **Malicious-Website-Demo**! This project serves as a controlled e
 This website is intended for **educational purposes only**. It is a safe space for demonstrating and understanding web vulnerabilities like malicious redirects and phishing techniques. Always use this knowledge responsibly and ethically.
 
 ## Demo Sections
+
+![screenshot](https://raw.githubusercontent.com/yogsec/Malicious-Website-Demo/refs/heads/main/Screenshot_2025-01-07_17_32_45.png)
+
 1. **Home**: Displays a bold welcome message and a dragon image symbolizing danger.
 2. **About**: Describes the purpose of this demo and encourages responsible usage.
 
