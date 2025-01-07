@@ -23,11 +23,7 @@ This website is intended for **educational purposes only**. It is a safe space f
 - **Font Awesome** for icons
 
 ## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yogsec/Malicious-Website-Demo.git
-   ```
-2. Open `index.html` in any browser to explore the demo.
+1. Open url [https://yogsec.github.io/Malicious-Website-Demo/](https://yogsec.github.io/Malicious-Website-Demo/) 
 
 ## Disclaimer
 This website is for educational purposes only. The creators are not responsible for any misuse of this resource. Always abide by ethical guidelines while practicing or sharing cybersecurity techniques.
