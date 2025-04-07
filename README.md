@@ -1,15 +1,16 @@
 <!-- README.md -->
 
-<h1 align="center" style="color: #e60000; font-family: 'Segoe UI', sans-serif; font-size: 3em;">🐉 Malicious-Website-Demo</h1>
+<div style="background: linear-gradient(to right, #330000, #660000); padding: 40px; border-radius: 20px; color: #fff; font-family: 'Segoe UI', sans-serif;">
 
-<p align="center" style="font-size: 1.2em;">
-  Welcome to the <strong>Malicious-Website-Demo</strong>! This project serves as a controlled environment for security researchers and enthusiasts to demonstrate and understand common vulnerabilities.
-</p>
-<p align="center" style="color: #d00000; font-weight: bold;">
-  🔥 Designed with a red theme to reflect the danger associated with malicious websites.
+<h1 align="center" style="font-size: 3.5em; color: #ff3333; text-shadow: 2px 2px #000;">🐉 Malicious-Website-Demo</h1>
+
+<p align="center" style="font-size: 1.2em; max-width: 800px; margin: auto;">
+  Welcome to the <strong style="color: #ff6666;">Malicious-Website-Demo</strong>! A controlled environment for security researchers and enthusiasts to explore common vulnerabilities. Designed with a red theme to reflect danger ⚠️.
 </p>
 
-<div align="center" style="margin: 20px 0;">
+<br>
+
+<div align="center" style="margin: 30px 0;">
   <a href="https://www.whatsapp.com/channel/0029Vb68FeRFnSzGNOZC3h3x">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp+Channel&color=25D366&logo=whatsapp&logoColor=FFFFFF&label=" alt="WhatsApp Channel">
   </a>
@@ -34,52 +35,46 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/yogsec/Malicious-Website-Demo/blob/main/Screenshot_2025-01-07_17_32_45.png?raw=true" alt="screenshot" style="border-radius: 10px; max-width: 90%; box-shadow: 0 0 15px red;">
+  <img src="https://github.com/yogsec/Malicious-Website-Demo/blob/main/Screenshot_2025-01-07_17_32_45.png?raw=true" alt="screenshot" style="max-width: 80%; border-radius: 15px; box-shadow: 0 0 20px red;">
 </p>
 
----
+<br><hr style="border: 1px solid #ff4444;"><br>
 
-## 🚀 Features
+<h2 style="color: #ff6666;">🚀 Features</h2>
+<ul style="line-height: 1.8;">
+  <li><strong>Dangerous Theme:</strong> 🔴 Red and dragon visuals to depict the risks.</li>
+  <li><strong>Simulated Vulnerabilities:</strong> 🧪 Mimics malicious redirects and phishing.</li>
+  <li><strong>Responsive:</strong> 📱 Works on all screen sizes.</li>
+  <li><strong>Modern Stack:</strong> 💡 HTML, CSS, JavaScript, Bootstrap 5</li>
+</ul>
 
-- 🎨 <strong>Dangerous Theme</strong>: A striking red theme and dragon imagery to convey the perilous nature of the demo.
-- 🐛 <strong>Simulated Vulnerabilities</strong>: Includes scripts to simulate redirect and malicious landing page scenarios.
-- 📱 <strong>Fully Responsive Design</strong>: Optimized for all screen sizes, from desktops to mobile devices.
-- ⚙️ <strong>Modern Frameworks</strong>: Built using HTML, CSS, JavaScript, and Bootstrap 5.
+<h2 style="color: #ff6666;">🎯 Purpose</h2>
+<p>This site is for <strong style="color: yellow;">educational purposes only</strong>. A safe zone to test and understand threats like phishing, redirection, etc.</p>
+<p style="color: #ffaaaa;">⚠️ Use ethically. Do not misuse the information!</p>
 
----
+<h2 style="color: #ff6666;">📂 Demo Sections</h2>
+<ul style="line-height: 1.8;">
+  <li>🏠 <strong>Home:</strong> Bold message with dragon imagery.</li>
+  <li>ℹ️ <strong>About:</strong> Outlines educational intent and ethical guidelines.</li>
+</ul>
 
-## 🎯 Purpose
+<h2 style="color: #ff6666;">🛠️ Technologies Used</h2>
+<ul style="line-height: 1.8;">
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>Bootstrap 5</li>
+  <li>Font Awesome</li>
+</ul>
 
-This website is intended for <strong>educational purposes only</strong>. It is a safe space for demonstrating and understanding web vulnerabilities like malicious redirects and phishing techniques.  
-<span style="color: red;">⚠️ Always use this knowledge responsibly and ethically.</span>
+<h2 style="color: #ff6666;">▶️ How to Use</h2>
+<p>
+  🔗 Visit the live demo: <a href="https://yogsec.github.io/Malicious-Website-Demo/" style="color: #00ffcc; text-decoration: underline;">Click Here</a>
+</p>
 
----
+<h2 style="color: #ff6666;">📌 Disclaimer</h2>
+<p style="color: #ffcccc;">
+  This project is for <strong>educational use only</strong>. We are <strong>not liable</strong> for misuse. Practice responsibly and always follow the law.
+</p>
 
-## 📂 Demo Sections
-
-1. 🏠 <strong>Home</strong>: Displays a bold welcome message and a dragon image symbolizing danger.  
-2. ℹ️ <strong>About</strong>: Describes the purpose of this demo and encourages responsible usage.
-
----
-
-## 🛠️ Technologies Used
-
-- <strong>HTML5</strong> for structure  
-- <strong>CSS3</strong> for styling  
-- <strong>JavaScript</strong> for interactivity  
-- <strong>Bootstrap 5</strong> for responsiveness  
-- <strong>Font Awesome</strong> for icons
-
----
-
-## ▶️ How to Use
-
-🔗 Visit the live demo: [https://yogsec.github.io/Malicious-Website-Demo/](https://yogsec.github.io/Malicious-Website-Demo/)
-
----
-
-## 📌 Disclaimer
-
-This website is for **educational purposes only**.  
-The creators are **not responsible for any misuse** of this resource.  
-🙏 Always abide by ethical guidelines while practicing or sharing cybersecurity techniques.
+</div>
